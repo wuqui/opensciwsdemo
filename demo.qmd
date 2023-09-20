@@ -1,5 +1,5 @@
 ---
-title: demo
+title: CAIS workshop demo
 author: qw
 toc: true
 ---

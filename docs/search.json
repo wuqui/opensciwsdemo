@@ -2,21 +2,21 @@
   {
     "objectID": "demo.html",
     "href": "demo.html",
-    "title": "demo",
+    "title": "CAIS workshop demo",
     "section": "",
     "text": "for i in range(23):\n    print('servus')\n\n\n\nbullets\n\none\ntwo\nthree\n\nnumbered\n\none\ntwo\nthree"
   },
   {
     "objectID": "demo.html#code",
     "href": "demo.html#code",
-    "title": "demo",
+    "title": "CAIS workshop demo",
     "section": "",
     "text": "for i in range(23):\n    print('servus')"
   },
   {
     "objectID": "demo.html#lists",
     "href": "demo.html#lists",
-    "title": "demo",
+    "title": "CAIS workshop demo",
     "section": "",
     "text": "bullets\n\none\ntwo\nthree\n\nnumbered\n\none\ntwo\nthree"
   }
