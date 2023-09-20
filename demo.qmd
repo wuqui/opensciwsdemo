@@ -6,6 +6,10 @@ toc: true
 
 # Heading 1
 
+## Images
+
+![](img/cais.jpg){height=150}
+
 ## Code
 
 ```python
