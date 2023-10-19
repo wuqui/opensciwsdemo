@@ -1,5 +1,5 @@
 # opensciwsdemo
 
-Demo for CAIS Open Science Workshop
+Demo repository creating and publishing a Quarto project
 
-website: https://wuqui.github.io/opensciwsdemo/demo.html
+as part of the [CAIS Open Science Workshop](https://github.com/wuqui/opensciws)
